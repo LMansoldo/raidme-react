@@ -6,6 +6,7 @@
     "rules": {
         "@typescript-eslint/consistent-type-definitions": "off",
         "@typescript-eslint/strict-boolean-expresions": "off",
-        "@typescript-eslint/camelcase": "off"
+        "@typescript-eslint/camelcase": "off",
+        "quotes": [2, "single", { "avoidEscape": true }]
     }
 }
